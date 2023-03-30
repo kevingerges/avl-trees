@@ -2,11 +2,12 @@
 #define RECCHECK
 
 // Add any necessary #includes here
+#include <algorithm>
 
 #endif
 
 #include "equal-paths.h"
-#include <algorithm>
+
 
 using namespace std;
 
